@@ -18,4 +18,4 @@ A workflow for data. I am not able to share much about the code.
 - Artificial Intelligence
   - Reinforcement Learning
   - Imitation Learning
-- Reading Memory from RAM
+  - Reading Memory from RAM (for RL)
