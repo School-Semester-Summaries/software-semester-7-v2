@@ -15,16 +15,12 @@
 VVT Workflow API is a workflow for data within the VVT project. I am not able to share much about the code.
 
 ## Side Projects
-- Job at Tante Louise
-I got offered a temporary job at Tante Louise to anonymize data.
+- Job at Tante Louise: I got offered a temporary job at Tante Louise to anonymize data. This data is related to the VVT project.
 - Discord Bots
   - [Ranknir](https://github.com/CrossyChainsaw/Ranknir)
   - [Dadabase](https://github.com/CrossyChainsaw/Dadabase)
   - [LIVE-vraxx](https://github.com/CrossyChainsaw/LIVE-vraxx)
 - Artificial Intelligence
-  - Reinforcement Learning
-  Projects wherein I try to make AI learn how to play mario party minigames and other smaller games.
-  - Imitation Learning
-  Trying to make a model clone how i play mario party.
-  - Reading Memory from RAM (for RL)
-  Reading RAM to give the game state for RL/IL.
+  - [Reinforcement Learning](): Projects wherein I try to make AI learn how to play mario party minigames and other smaller games.
+  - [Imitation Learning](): Trying to make a model clone how i play mario party.
+  - [Reading Memory from RAM](): Reading RAM to get the game state for RL/IL.
