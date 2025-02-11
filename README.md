@@ -21,6 +21,6 @@ VVT Workflow API is a workflow for data within the VVT project. I am not able to
   - [Dadabase](https://github.com/CrossyChainsaw/Dadabase)
   - [LIVE-vraxx](https://github.com/CrossyChainsaw/LIVE-vraxx)
 - Artificial Intelligence
-  - [Reinforcement Learning](): Projects wherein I try to make AI learn how to play mario party minigames and other smaller games.
-  - [Imitation Learning](): Trying to make a model clone how i play mario party.
+  - [Reinforcement Learning](https://github.com/School-Semester-Summaries/software-semester-7-v2/tree/main/side%20projects/Reinforcement%20Learning): Projects wherein I try to make AI learn how to play mario party minigames and other smaller games.
+  - [Imitation Learning](https://github.com/School-Semester-Summaries/software-semester-7-v2/tree/main/side%20projects/Imitation%20Learning): Trying to make a model clone how i play mario party.
   - [Reading Memory from RAM](): Reading RAM to get the game state for RL/IL.
