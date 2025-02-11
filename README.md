@@ -1,4 +1,4 @@
-# Software Semester 7: Advanced Software
+# Software Semester 7: Advanced Software (WIP)
 - [Individual Project: Malhalla]
 - [Group Project: VVT Workflow API]
 - [Side Projects]
