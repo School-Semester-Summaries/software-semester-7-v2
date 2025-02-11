@@ -1,4 +1,4 @@
-# Software Semester 7: Advanced Software (WIP)
+# Software Semester 7: Advanced Software
 - [Portfolio](#portfolio)
 - [Individual Project](#individual-project)
   - Malhalla
