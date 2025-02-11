@@ -9,10 +9,10 @@
   - Artificial Intelligence 
 
 ## Individual Project
-[Malhalla](https://github.com/Mallhalla) is a very basic webshop
+[Malhalla](https://github.com/Mallhalla) is a very basic webshop. Everything I have done to prove the learning outcomes is documented in my portfolio.
 
 ## Group Project
-VVT Workflow API is a workflow for data within the VVT project. I am not able to share much about the code.
+VVT Workflow API is a workflow for data within the VVT project. I am not able to share much about the code. Everything I have done to prove the learning outcomes is documented in my portfolio.
 
 ## Side Projects
 - Job at Tante Louise: I got offered a temporary job at Tante Louise to anonymize data. This data is related to the VVT project.
