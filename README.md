@@ -23,5 +23,8 @@ I got offered a temporary job at Tante Louise to anonymize data.
   - [LIVE-vraxx](https://github.com/CrossyChainsaw/LIVE-vraxx)
 - Artificial Intelligence
   - Reinforcement Learning
+  Projects wherein I try to make AI learn how to play mario party minigames and other smaller games.
   - Imitation Learning
+  Trying to make a model clone how i play mario party.
   - Reading Memory from RAM (for RL)
+  Reading RAM to give the game state for RL/IL.
