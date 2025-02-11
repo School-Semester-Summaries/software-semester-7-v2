@@ -14,7 +14,7 @@ A workflow for data
 - Discord Bots
   - [Ranknir](https://github.com/CrossyChainsaw/Ranknir)
   - [Dadabase](https://github.com/CrossyChainsaw/Dadabase)
-  - [LIVE-Vraxx](https://github.com/CrossyChainsaw/LIVE-Vraxx)
+  - [LIVE-vraxx](https://github.com/CrossyChainsaw/LIVE-vraxx)
 - Artificial Intelligence
   - Reinforcement Learning
   - Imitation Learning
