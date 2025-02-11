@@ -10,7 +10,7 @@
   - Artificial Intelligence 
 
 ## Portfolio
-This semester we were forced to use the portflow tool. If you have access to this tool you can download my portfolio and view it in there. Therefore it is really difficult to include it all like every other semester. Everything is put into folders, you can start browsing here -> [My Portfolio]
+This semester we were forced to use the portflow tool. If you have access to this tool you can download my portfolio and view it in there. Therefore it is really difficult to include it all like every other semester. Everything is put into folders, you can start browsing here -> [My Portfolio](https://github.com/School-Semester-Summaries/software-semester-7-v2/tree/main/my%20portfolio)
 
 ## Individual Project
 [Malhalla](https://github.com/Mallhalla) is a very basic webshop. Everything I have done to prove the learning outcomes is documented in my portfolio.
