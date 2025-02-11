@@ -1,9 +1,9 @@
 # Software Semester 7: Advanced Software (WIP)
-- [Individual Project](individual-project)
+- [Individual Project](#individual-project)
   - Malhalla
-- [Group Project](group-project)
+- [Group Project](#group-project)
   - VVT Workflow API 
-- [Side Projects](side-projects)
+- [Side Projects](#side-projects)
 
 ## Individual Project
 [Malhalla](https://github.com/Mallhalla) A very basic webshop
