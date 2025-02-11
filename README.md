@@ -12,9 +12,9 @@ A workflow for data
 ## Side Projects
 - Job at Tante Louise
 - Discord Bots
-  - Ranknir
-  - Dadabase
-  - LIVE-Vraxx
+  - [Ranknir](https://github.com/CrossyChainsaw/Ranknir)
+  - [Dadabase](https://github.com/CrossyChainsaw/Dadabase)
+  - [LIVE-Vraxx](https://github.com/CrossyChainsaw/LIVE-Vraxx)
 - Artificial Intelligence
   - Reinforcement Learning
   - Imitation Learning
