@@ -1,4 +1,5 @@
 # Software Semester 7: Advanced Software (WIP)
+- [Portfolio](#portfolio)
 - [Individual Project](#individual-project)
   - Malhalla
 - [Group Project](#group-project)
@@ -7,6 +8,9 @@
   - Tante Louise Project
   - Discord Bots
   - Artificial Intelligence 
+
+## Portfolio
+This semester we were forced to use the portflow tool. If you have access to this tool you can download my portfolio and view it in there. Therefore it is really difficult to include it all like every other semester. Everything is put into folders, you can start browsing here -> [My Portfolio]
 
 ## Individual Project
 [Malhalla](https://github.com/Mallhalla) is a very basic webshop. Everything I have done to prove the learning outcomes is documented in my portfolio.
