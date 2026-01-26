@@ -13,7 +13,7 @@
 This semester we were forced to use the portflow tool. If you have access to this tool you can download my portfolio and view it in there. Therefore it is really difficult to include it all like every other semester. Everything is put into folders, you can start browsing here -> [My Portfolio](https://github.com/School-Semester-Summaries/software-semester-7-v2/tree/main/my%20portfolio)
 
 ## Individual Project
-[Malhalla](https://github.com/Mallhalla) is a very basic webshop. Everything I have done to prove the learning outcomes is documented in -> [My Portfolio](https://github.com/School-Semester-Summaries/software-semester-7-v2/tree/main/my%20portfolio).
+[Malhalla](https://github.com/orgs/Mallhalla/repositories) is a very basic webshop. Everything I have done to prove the learning outcomes is documented in -> [My Portfolio](https://github.com/School-Semester-Summaries/software-semester-7-v2/tree/main/my%20portfolio). All the code can be found in the organization -> [Malhalla Organization](https://github.com/orgs/Mallhalla/repositories)
 
 ## Group Project
 VVT Workflow API is a workflow for data within the VVT project. I am not able to share much about the code. Everything I have done to prove the learning outcomes is documented in -> [My Portfolio](https://github.com/School-Semester-Summaries/software-semester-7-v2/tree/main/my%20portfolio).
