@@ -4,7 +4,7 @@
   - Malhalla
 - [Group Project](#group-project)
   - VVT Workflow API 
-- [Side Projects](#side-projects)
+- [Side Projects](#side-projects-the-fun-stuff)
   - Tante Louise Project
   - Discord Bots
   - Artificial Intelligence 
