@@ -21,9 +21,9 @@ VVT Workflow API is a workflow for data within the VVT project. I am not able to
 ## Side Projects (the fun stuff)
 - Job at Tante Louise: I got offered a temporary job at Tante Louise to anonymize data. This data is related to the VVT project.
 - Discord Bots
-  - [Ranknir](https://github.com/CrossyChainsaw/Ranknir)
-  - [Dadabase](https://github.com/CrossyChainsaw/Dadabase)
-  - [LIVE-vraxx](https://github.com/CrossyChainsaw/LIVE-vraxx)
+  - [Ranknir](https://github.com/CrossyChainsaw/Ranknir) (Worked on Ranknir)
+  - [Dadabase](https://github.com/CrossyChainsaw/Dadabase) (Worked on Dadabase)
+  - [LIVE-vraxx](https://github.com/CrossyChainsaw/LIVE-vraxx) (New Discord Bot!)
 - Artificial Intelligence
   - [Reinforcement Learning](https://github.com/School-Semester-Summaries/software-semester-7-v2/tree/main/side%20projects/Reinforcement%20Learning): Projects wherein I try to make AI learn how to play mario party minigames and other smaller games.
   - [Imitation Learning](https://github.com/School-Semester-Summaries/software-semester-7-v2/tree/main/side%20projects/Imitation%20Learning): Trying to make a model clone how i play mario party.
